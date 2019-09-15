@@ -9,6 +9,7 @@ print(str +' test')
 
 x = 'app'
 y =  'le'
+z =  'changes'
 print(x+y)
 
 print(x*2)
